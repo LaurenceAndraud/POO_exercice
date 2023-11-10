@@ -1,4 +1,4 @@
-# POO par Laurence Andraud
+# POO 
 POO signifie Programmation Orientée Object, et est un modèle de programmation qui permet de créer et gérer des classes et objets. Ceci peut être utilisé dans différents langage de programmation. La POO permet également d’avoir un code plus lisible, de qualité. À travers cette documentation, nous allons voir les différentes notions de la POO à travers des exemples de livre pour une librairie.
 
 ## Les classes
